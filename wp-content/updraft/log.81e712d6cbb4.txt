@@ -1,0 +1,983 @@
+0000.000 (0) Opened log file at time: Mon, 10 Aug 2020 20:58:09 +0000 on http://localhost/louispaulkoffiemaker
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.3.5 (apache2handler, Windows NT DESKTOP-H29UF1S 10.0 build 18362 (Windows 10) i586) MySQL: 5.7.26 WPLANG: nl_BE Server: Apache/2.4.39 (Win32) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 19.3M | 4M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.003 (0) Free space on disk containing Updraft's temporary directory: 6019.9 MB
+0000.008 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.011 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.013 (0) Set semaphore last lock (fd) time to 2020-08-10 20:58:09
+0000.014 (0) Semaphore lock (fd) complete
+0000.017 (0) Backup run: resumption=0, nonce=81e712d6cbb4, file_nonce=81e712d6cbb4 begun at=1597093089 (0s ago), job type=backup
+0000.019 (0) Scheduling a resumption (1) after 300 seconds (1597093389) in case this run gets aborted
+0000.023 (0) Checking if we have a zip executable available
+0000.025 (0) Creation of backups of directories: beginning
+0000.030 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0005.890 (0) Total entities for the zip file: 1658 directories, 9249 files (0 skipped as non-modified), 118.8 MB
+0005.913 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0006.187 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 100 files added (on-disk size: 340.2 KB)
+0006.301 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 200 files added (on-disk size: 340.2 KB)
+0006.432 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 300 files added (on-disk size: 340.2 KB)
+0006.619 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 400 files added (on-disk size: 340.2 KB)
+0006.753 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 500 files added (on-disk size: 340.2 KB)
+0006.759 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.4 MB, 9249 files batched, 501 (502) added so far); re-opening (prior size: 340.2 KB)
+0008.972 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 600 files added (on-disk size: 3413.9 KB)
+0009.098 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 700 files added (on-disk size: 3413.9 KB)
+0009.206 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 800 files added (on-disk size: 3413.9 KB)
+0009.335 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 900 files added (on-disk size: 3413.9 KB)
+0009.452 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 1000 files added (on-disk size: 3413.9 KB)
+0009.458 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.9 MB, 9249 files batched, 501 (1003) added so far); re-opening (prior size: 3413.9 KB)
+0010.560 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 1100 files added (on-disk size: 4854 KB)
+0010.713 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 1200 files added (on-disk size: 4854 KB)
+0010.844 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 1300 files added (on-disk size: 4854 KB)
+0010.966 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 1400 files added (on-disk size: 4854 KB)
+0011.089 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 1500 files added (on-disk size: 4854 KB)
+0011.100 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.9 MB, 9249 files batched, 501 (1504) added so far); re-opening (prior size: 4854 KB)
+0012.342 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 1600 files added (on-disk size: 5854.4 KB)
+0012.520 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 1700 files added (on-disk size: 5854.4 KB)
+0012.645 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 1800 files added (on-disk size: 5854.4 KB)
+0012.770 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 1900 files added (on-disk size: 5854.4 KB)
+0012.875 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 2000 files added (on-disk size: 5854.4 KB)
+0012.883 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.9 MB, 9249 files batched, 501 (2005) added so far); re-opening (prior size: 5854.4 KB)
+0017.232 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 2100 files added (on-disk size: 10016.1 KB)
+0017.798 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 2200 files added (on-disk size: 10016.1 KB)
+0018.693 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 293 (2298) files added so far); re-opening (prior size: 10016.1 KB)
+0021.868 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 2300 files added (on-disk size: 10542.3 KB)
+0022.862 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 2400 files added (on-disk size: 10542.3 KB)
+0023.687 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 193 (2491) files added so far); re-opening (prior size: 10542.3 KB)
+0025.823 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 2500 files added (on-disk size: 10885.7 KB)
+0026.381 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 2600 files added (on-disk size: 10885.7 KB)
+0026.739 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 2700 files added (on-disk size: 10885.7 KB)
+0027.090 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 2800 files added (on-disk size: 10885.7 KB)
+0027.498 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 2900 files added (on-disk size: 10885.7 KB)
+0027.689 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.4 MB, 471 (2962) files added so far); re-opening (prior size: 10885.7 KB)
+0029.870 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 3000 files added (on-disk size: 11867.6 KB)
+0030.214 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 3100 files added (on-disk size: 11867.6 KB)
+0030.529 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 3200 files added (on-disk size: 11867.6 KB)
+0030.864 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 3300 files added (on-disk size: 11867.6 KB)
+0031.285 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 3400 files added (on-disk size: 11867.6 KB)
+0031.499 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.3 MB, 9249 files batched, 501 (3463) added so far); re-opening (prior size: 11867.6 KB)
+0033.282 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 3500 files added (on-disk size: 13431.3 KB)
+0033.386 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 3600 files added (on-disk size: 13431.3 KB)
+0033.518 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 3700 files added (on-disk size: 13431.3 KB)
+0033.652 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 3800 files added (on-disk size: 13431.3 KB)
+0033.787 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 3900 files added (on-disk size: 13431.3 KB)
+0033.877 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (18.2 MB, 9249 files batched, 501 (3964) added so far); re-opening (prior size: 13431.3 KB)
+0037.287 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 4000 files added (on-disk size: 18326 KB)
+0037.364 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 4100 files added (on-disk size: 18326 KB)
+0037.449 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 4200 files added (on-disk size: 18326 KB)
+0037.539 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 4300 files added (on-disk size: 18326 KB)
+0037.636 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 4400 files added (on-disk size: 18326 KB)
+0037.726 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.1 MB, 9249 files batched, 501 (4465) added so far); re-opening (prior size: 18326 KB)
+0038.856 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 4500 files added (on-disk size: 19283.9 KB)
+0038.931 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 4600 files added (on-disk size: 19283.9 KB)
+0039.007 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 4700 files added (on-disk size: 19283.9 KB)
+0039.089 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 4800 files added (on-disk size: 19283.9 KB)
+0039.168 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 4900 files added (on-disk size: 19283.9 KB)
+0039.220 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.8 MB, 9249 files batched, 501 (4966) added so far); re-opening (prior size: 19283.9 KB)
+0040.020 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 5000 files added (on-disk size: 20900.1 KB)
+0040.085 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 5100 files added (on-disk size: 20900.1 KB)
+0040.155 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 5200 files added (on-disk size: 20900.1 KB)
+0040.221 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 5300 files added (on-disk size: 20900.1 KB)
+0040.294 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 5400 files added (on-disk size: 20900.1 KB)
+0040.349 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.5 MB, 9249 files batched, 501 (5467) added so far); re-opening (prior size: 20900.1 KB)
+0041.532 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 5500 files added (on-disk size: 22703.2 KB)
+0041.634 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 5600 files added (on-disk size: 22703.2 KB)
+0041.735 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 5700 files added (on-disk size: 22703.2 KB)
+0041.840 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 5800 files added (on-disk size: 22703.2 KB)
+0041.932 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 5900 files added (on-disk size: 22703.2 KB)
+0041.993 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (15.4 MB, 9249 files batched, 501 (5968) added so far); re-opening (prior size: 22703.2 KB)
+0044.370 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 6000 files added (on-disk size: 26647.9 KB)
+0044.436 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 6100 files added (on-disk size: 26647.9 KB)
+0044.503 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 6200 files added (on-disk size: 26647.9 KB)
+0044.578 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 6300 files added (on-disk size: 26647.9 KB)
+0044.641 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 6400 files added (on-disk size: 26647.9 KB)
+0044.690 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.6 MB, 9249 files batched, 501 (6469) added so far); re-opening (prior size: 26647.9 KB)
+0045.665 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 6500 files added (on-disk size: 27448.6 KB)
+0045.932 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 6600 files added (on-disk size: 27448.6 KB)
+0046.069 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 6700 files added (on-disk size: 27448.6 KB)
+0046.221 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 6800 files added (on-disk size: 27448.6 KB)
+0046.368 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 6900 files added (on-disk size: 27448.6 KB)
+0046.472 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.6 MB, 9249 files batched, 501 (6970) added so far); re-opening (prior size: 27448.6 KB)
+0048.339 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 7000 files added (on-disk size: 29383.5 KB)
+0048.435 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 7100 files added (on-disk size: 29383.5 KB)
+0048.523 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 7200 files added (on-disk size: 29383.5 KB)
+0048.607 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 7300 files added (on-disk size: 29383.5 KB)
+0048.689 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 7400 files added (on-disk size: 29383.5 KB)
+0048.744 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.5 MB, 9249 files batched, 501 (7471) added so far); re-opening (prior size: 29383.5 KB)
+0049.500 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 7500 files added (on-disk size: 30079.5 KB)
+0049.571 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 7600 files added (on-disk size: 30079.5 KB)
+0049.639 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 7700 files added (on-disk size: 30079.5 KB)
+0049.874 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 7800 files added (on-disk size: 30079.5 KB)
+0049.943 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 7900 files added (on-disk size: 30079.5 KB)
+0049.987 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.9 MB, 9249 files batched, 501 (7972) added so far); re-opening (prior size: 30079.5 KB)
+0050.987 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 8000 files added (on-disk size: 31739.9 KB)
+0051.081 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 8100 files added (on-disk size: 31739.9 KB)
+0051.166 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 8200 files added (on-disk size: 31739.9 KB)
+0051.309 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 8300 files added (on-disk size: 31739.9 KB)
+0051.494 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 8400 files added (on-disk size: 31739.9 KB)
+0051.634 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.6 MB, 9249 files batched, 501 (8473) added so far); re-opening (prior size: 31739.9 KB)
+0054.114 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 8500 files added (on-disk size: 33237.9 KB)
+0054.251 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 8600 files added (on-disk size: 33237.9 KB)
+0054.364 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 8700 files added (on-disk size: 33237.9 KB)
+0054.486 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 8800 files added (on-disk size: 33237.9 KB)
+0054.635 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 8900 files added (on-disk size: 33237.9 KB)
+0054.739 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.3 MB, 9249 files batched, 501 (8974) added so far); re-opening (prior size: 33237.9 KB)
+0056.240 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 9000 files added (on-disk size: 34778.1 KB)
+0056.518 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 9100 files added (on-disk size: 34778.1 KB)
+0056.716 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip.tmp: 9200 files added (on-disk size: 34778.1 KB)
+0058.175 (0) Created plugins zip (0) - 35431.7 KB in 58.1 s (609.4 KB/s) (sha1: 4155da7f61bcd0dc343ca7d4734d9c8c1f6b09ab, sha256: 0c3eb69e6b1d8203397bd3d504046d0528bf2c601ba1ee5c548c7995be21ed98)
+0058.182 (0) Beginning creation of dump of themes (split every: 400 MB)
+0058.371 (0) Total entities for the zip file: 148 directories, 341 files (0 skipped as non-modified), 73.5 MB
+0058.425 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (30.7 MB, 341 files batched, 80 (80) added so far); re-opening (prior size: 0 KB)
+0061.152 (0) A useful amount of data was added after this amount of zip processing: 3.5 s (normalised: 2.8 s, rate: 9077 KB/s)
+0061.155 (0) Performance is good - will increase the amount of data we attempt to batch (time=3.4652109146118, normalised_time=2.8203302078996, max_time=61.152934074402, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0061.173 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip.tmp: 100 files added (on-disk size: 31484.3 KB)
+0061.245 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip.tmp: 200 files added (on-disk size: 31484.3 KB)
+0061.310 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip.tmp: 300 files added (on-disk size: 31484.3 KB)
+0064.230 (0) Created themes zip (0) - 71893.4 KB in 6 s (11897.9 KB/s) (sha1: 351b4989d0d874df749fb8962e43805551b0923a, sha256: 803dc56ac9582d6d51719b35a300c06becc6e5c48fd2f723820a77bd4c10909f)
+0064.242 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0064.245 (0) Looking for candidates to backup in: C:\wamp\www\louispaulkoffiemaker/wp-content/uploads
+0064.248 (0) finding files: 2020: adding to list (1)
+0064.251 (0) finding files: wc-logs: adding to list (2)
+0064.253 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (3)
+0064.256 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (4)
+0064.259 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (5)
+0064.261 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (6)
+0064.264 (0) finding files: woocommerce-placeholder-324x324.png: adding to list (7)
+0064.267 (0) finding files: woocommerce-placeholder-416x416.png: adding to list (8)
+0064.270 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (9)
+0064.272 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (10)
+0064.276 (0) finding files: woocommerce-placeholder.png: adding to list (11)
+0064.279 (0) finding files: woocommerce_uploads: adding to list (12)
+0064.281 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0064.363 (0) Total entities for the zip file: 5 directories, 118 files (0 skipped as non-modified), 21.8 MB
+0064.445 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0065.132 (0) Created uploads zip (0) - 22290.5 KB in 0.8 s (26483.5 KB/s) (sha1: 89a20efdf2f02baca9743b0ebca4089e8b489535, sha256: c7e9fb6e9770b8d6605a999a5af948b45e2f39f26895428352a9ee286b52e821)
+0065.140 (0) Beginning backup of other directories found in the content directory (index: 0)
+0065.142 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0065.144 (0) Looking for candidates to backup in: C:\wamp\www\louispaulkoffiemaker/wp-content
+0065.147 (0) finding files: cache: skipping: excluded by options
+0065.149 (0) finding files: index.php: adding to list (1)
+0065.151 (0) finding files: languages: adding to list (2)
+0065.153 (0) finding files: plugins: skipping: this is the plugins directory
+0065.155 (0) finding files: themes: skipping: this is the themes directory
+0065.157 (0) finding files: updraft: skipping: this is the updraft directory
+0065.160 (0) finding files: upgrade: skipping: excluded by options
+0065.161 (0) finding files: uploads: skipping: this is the uploads directory
+0065.261 (0) Total entities for the zip file: 3 directories, 223 files (0 skipped as non-modified), 5.4 MB
+0065.335 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0065.415 (0) Zip: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0066.474 (0) Created others zip (0) - 1590 KB in 1.3 s (1217.1 KB/s) (sha1: 793ea9eed47a0d33a0597ffed2a45b5a2852b085, sha256: ce7a76fc6e25797b6fdab30b89753bfb1a3a55daa031e151ece983dd6783462d)
+0066.487 (0) Saving backup status to database (elements: 8)
+0066.493 (0) Beginning creation of database dump (WordPress DB)
+0066.526 (0) Table lp_options: Total expected rows (approximate): 442
+0066.580 (0) Table lp_options: Rows added in this batch (start page: 0; next: finished): 438 in 0.05 seconds
+0066.584 (0) Table lp_options: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_options.table.gz - 43.1 KB)
+0066.599 (0) Table lp_users: Total expected rows (approximate): 1
+0066.606 (0) Table lp_users: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0066.609 (0) Table lp_users: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_users.table.gz - 0.6 KB)
+0066.626 (0) Table lp_usermeta: Total expected rows (approximate): 32
+0066.632 (0) Table lp_usermeta: Rows added in this batch (start page: 0; next: finished): 32 in 0.00 seconds
+0066.635 (0) Table lp_usermeta: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_usermeta.table.gz - 2.9 KB)
+0066.651 (0) Table lp_actionscheduler_actions: Total expected rows (approximate): 2
+0066.657 (0) Table lp_actionscheduler_actions: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0066.660 (0) Table lp_actionscheduler_actions: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_actionscheduler_actions.table.gz - 0.7 KB)
+0066.675 (0) Table lp_actionscheduler_claims: Total expected rows (approximate): 0
+0066.679 (0) Table lp_actionscheduler_claims: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0066.682 (0) Table lp_actionscheduler_claims: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_actionscheduler_claims.table.gz - 0.3 KB)
+0066.697 (0) Table lp_actionscheduler_groups: Total expected rows (approximate): 1
+0066.701 (0) Table lp_actionscheduler_groups: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0066.704 (0) Table lp_actionscheduler_groups: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_actionscheduler_groups.table.gz - 0.4 KB)
+0066.723 (0) Table lp_actionscheduler_logs: Total expected rows (approximate): 6
+0066.729 (0) Table lp_actionscheduler_logs: Rows added in this batch (start page: 0; next: finished): 6 in 0.00 seconds
+0066.731 (0) Table lp_actionscheduler_logs: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_actionscheduler_logs.table.gz - 0.5 KB)
+0066.747 (0) Table lp_commentmeta: Total expected rows (approximate): 0
+0066.751 (0) Table lp_commentmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0066.754 (0) Table lp_commentmeta: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_commentmeta.table.gz - 0.4 KB)
+0066.770 (0) Table lp_comments: Total expected rows (approximate): 1
+0066.777 (0) Table lp_comments: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0066.781 (0) Table lp_comments: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_comments.table.gz - 0.7 KB)
+0066.799 (0) Table lp_links: Total expected rows (approximate): 0
+0066.805 (0) Table lp_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0066.808 (0) Table lp_links: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_links.table.gz - 0.4 KB)
+0066.825 (0) Table lp_postmeta: Total expected rows (approximate): 258
+0066.843 (0) Table lp_postmeta: Rows added in this batch (start page: 0; next: finished): 258 in 0.02 seconds
+0066.847 (0) Table lp_postmeta: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_postmeta.table.gz - 3.7 KB)
+0066.864 (0) Table lp_posts: Total expected rows (approximate): 95
+0066.901 (0) Table lp_posts: Rows added in this batch (start page: 0; next: finished): 95 in 0.03 seconds
+0066.906 (0) Table lp_posts: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_posts.table.gz - 6.8 KB)
+0066.927 (0) Table lp_term_relationships: Total expected rows (approximate): 11
+0066.934 (0) Table lp_term_relationships: Rows added in this batch (start page: 0; next: finished): 11 in 0.00 seconds
+0066.938 (0) Table lp_term_relationships: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_term_relationships.table.gz - 0.4 KB)
+0066.969 (0) Table lp_term_taxonomy: Total expected rows (approximate): 20
+0066.983 (0) Table lp_term_taxonomy: Rows added in this batch (start page: 0; next: finished): 20 in 0.01 seconds
+0066.987 (0) Table lp_term_taxonomy: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_term_taxonomy.table.gz - 0.6 KB)
+0067.017 (0) Table lp_termmeta: Total expected rows (approximate): 0
+0067.028 (0) Table lp_termmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0067.034 (0) Table lp_termmeta: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_termmeta.table.gz - 0.4 KB)
+0067.065 (0) Table lp_terms: Total expected rows (approximate): 20
+0067.077 (0) Table lp_terms: Rows added in this batch (start page: 0; next: finished): 20 in 0.01 seconds
+0067.082 (0) Table lp_terms: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_terms.table.gz - 0.7 KB)
+0067.110 (0) Table lp_wc_category_lookup: Total expected rows (approximate): 1
+0067.117 (0) Table lp_wc_category_lookup: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0067.121 (0) Table lp_wc_category_lookup: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_category_lookup.table.gz - 0.3 KB)
+0067.149 (0) Table lp_wc_product_meta_lookup: Total expected rows (approximate): 0
+0067.158 (0) Table lp_wc_product_meta_lookup: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.162 (0) Table lp_wc_product_meta_lookup: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_product_meta_lookup.table.gz - 0.5 KB)
+0067.190 (0) Table lp_wc_reserved_stock: Total expected rows (approximate): 0
+0067.199 (0) Table lp_wc_reserved_stock: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.205 (0) Table lp_wc_reserved_stock: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_reserved_stock.table.gz - 0.3 KB)
+0067.238 (0) Table lp_wc_tax_rate_classes: Total expected rows (approximate): 2
+0067.248 (0) Table lp_wc_tax_rate_classes: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0067.252 (0) Table lp_wc_tax_rate_classes: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_tax_rate_classes.table.gz - 0.4 KB)
+0067.286 (0) Table lp_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0067.294 (0) Table lp_woocommerce_order_itemmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.299 (0) Table lp_woocommerce_order_itemmeta: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0067.328 (0) Table lp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0067.336 (0) Table lp_woocommerce_payment_tokenmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.342 (0) Table lp_woocommerce_payment_tokenmeta: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0067.368 (0) Table lp_yoast_seo_links: Total expected rows (approximate): 0
+0067.375 (0) Table lp_yoast_seo_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.379 (0) Table lp_yoast_seo_links: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_yoast_seo_links.table.gz - 0.4 KB)
+0067.402 (0) Table lp_yoast_seo_meta: Total expected rows (approximate): 0
+0067.409 (0) Table lp_yoast_seo_meta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.413 (0) Table lp_yoast_seo_meta: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_yoast_seo_meta.table.gz - 0.3 KB)
+0067.436 (0) Table lp_mailchimp_carts: Total expected rows (approximate): 0
+0067.443 (0) Table lp_mailchimp_carts: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.448 (0) Table lp_mailchimp_carts: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_mailchimp_carts.table.gz - 0.3 KB)
+0067.471 (0) Table lp_mailchimp_jobs: Total expected rows (approximate): 0
+0067.478 (0) Table lp_mailchimp_jobs: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.482 (0) Table lp_mailchimp_jobs: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_mailchimp_jobs.table.gz - 0.3 KB)
+0067.504 (0) Table lp_wc_admin_note_actions: Total expected rows (approximate): 6
+0067.512 (0) Table lp_wc_admin_note_actions: Rows added in this batch (start page: 0; next: finished): 6 in 0.00 seconds
+0067.516 (0) Table lp_wc_admin_note_actions: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_admin_note_actions.table.gz - 0.8 KB)
+0067.537 (0) Table lp_wc_admin_notes: Total expected rows (approximate): 5
+0067.547 (0) Table lp_wc_admin_notes: Rows added in this batch (start page: 0; next: finished): 5 in 0.01 seconds
+0067.551 (0) Table lp_wc_admin_notes: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_admin_notes.table.gz - 1 KB)
+0067.581 (0) Table lp_wc_customer_lookup: Total expected rows (approximate): 0
+0067.589 (0) Table lp_wc_customer_lookup: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.593 (0) Table lp_wc_customer_lookup: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_customer_lookup.table.gz - 0.5 KB)
+0067.615 (0) Table lp_wc_download_log: Total expected rows (approximate): 0
+0067.622 (0) Table lp_wc_download_log: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.626 (0) Table lp_wc_download_log: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_download_log.table.gz - 0.4 KB)
+0067.646 (0) Table lp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0067.652 (0) Table lp_wc_order_coupon_lookup: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.655 (0) Table lp_wc_order_coupon_lookup: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_order_coupon_lookup.table.gz - 0.4 KB)
+0067.676 (0) Table lp_wc_order_product_lookup: Total expected rows (approximate): 0
+0067.682 (0) Table lp_wc_order_product_lookup: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.685 (0) Table lp_wc_order_product_lookup: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_order_product_lookup.table.gz - 0.4 KB)
+0067.705 (0) Table lp_wc_order_stats: Total expected rows (approximate): 0
+0067.713 (0) Table lp_wc_order_stats: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.717 (0) Table lp_wc_order_stats: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_order_stats.table.gz - 0.5 KB)
+0067.741 (0) Table lp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0067.747 (0) Table lp_wc_order_tax_lookup: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.751 (0) Table lp_wc_order_tax_lookup: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_order_tax_lookup.table.gz - 0.4 KB)
+0067.771 (0) Table lp_wc_webhooks: Total expected rows (approximate): 0
+0067.779 (0) Table lp_wc_webhooks: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.782 (0) Table lp_wc_webhooks: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_webhooks.table.gz - 0.5 KB)
+0067.803 (0) Table lp_woocommerce_api_keys: Total expected rows (approximate): 0
+0067.810 (0) Table lp_woocommerce_api_keys: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.813 (0) Table lp_woocommerce_api_keys: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_api_keys.table.gz - 0.4 KB)
+0067.839 (0) Table lp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0067.846 (0) Table lp_woocommerce_attribute_taxonomies: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.850 (0) Table lp_woocommerce_attribute_taxonomies: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0067.875 (0) Table lp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0067.881 (0) Table lp_woocommerce_downloadable_product_permissions: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.885 (0) Table lp_woocommerce_downloadable_product_permissions: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0067.909 (0) Table lp_woocommerce_log: Total expected rows (approximate): 0
+0067.916 (0) Table lp_woocommerce_log: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.920 (0) Table lp_woocommerce_log: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_log.table.gz - 0.4 KB)
+0067.944 (0) Table lp_woocommerce_order_items: Total expected rows (approximate): 0
+0067.950 (0) Table lp_woocommerce_order_items: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.954 (0) Table lp_woocommerce_order_items: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_order_items.table.gz - 0.4 KB)
+0067.974 (0) Table lp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0067.980 (0) Table lp_woocommerce_payment_tokens: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0067.984 (0) Table lp_woocommerce_payment_tokens: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0068.003 (0) Table lp_woocommerce_sessions: Total expected rows (approximate): 1
+0068.010 (0) Table lp_woocommerce_sessions: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0068.014 (0) Table lp_woocommerce_sessions: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_sessions.table.gz - 0.9 KB)
+0068.032 (0) Table lp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0068.037 (0) Table lp_woocommerce_shipping_zone_locations: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0068.040 (0) Table lp_woocommerce_shipping_zone_locations: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0068.057 (0) Table lp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0068.062 (0) Table lp_woocommerce_shipping_zone_methods: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0068.066 (0) Table lp_woocommerce_shipping_zone_methods: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0068.084 (0) Table lp_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0068.090 (0) Table lp_woocommerce_shipping_zones: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0068.093 (0) Table lp_woocommerce_shipping_zones: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_shipping_zones.table.gz - 0.3 KB)
+0068.114 (0) Table lp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0068.120 (0) Table lp_woocommerce_tax_rate_locations: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0068.123 (0) Table lp_woocommerce_tax_rate_locations: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0068.143 (0) Table lp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0068.148 (0) Table lp_woocommerce_tax_rates: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0068.152 (0) Table lp_woocommerce_tax_rates: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0068.170 (0) Table lp_yoast_indexable: Total expected rows (approximate): 0
+0068.178 (0) Table lp_yoast_indexable: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0068.182 (0) Table lp_yoast_indexable: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_yoast_indexable.table.gz - 0.9 KB)
+0068.199 (0) Table lp_yoast_indexable_hierarchy: Total expected rows (approximate): 0
+0068.204 (0) Table lp_yoast_indexable_hierarchy: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0068.208 (0) Table lp_yoast_indexable_hierarchy: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_yoast_indexable_hierarchy.table.gz - 0.4 KB)
+0068.225 (0) Table lp_yoast_migrations: Total expected rows (approximate): 17
+0068.232 (0) Table lp_yoast_migrations: Rows added in this batch (start page: 0; next: finished): 17 in 0.00 seconds
+0068.235 (0) Table lp_yoast_migrations: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_yoast_migrations.table.gz - 0.5 KB)
+0068.252 (0) Table lp_yoast_primary_term: Total expected rows (approximate): 0
+0068.258 (0) Table lp_yoast_primary_term: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0068.261 (0) Table lp_yoast_primary_term: finishing file (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_yoast_primary_term.table.gz - 0.4 KB)
+0068.270 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_options.table.gz (1/51): adding to final database dump
+0068.294 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_users.table.gz (2/51): adding to final database dump
+0068.297 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_usermeta.table.gz (3/51): adding to final database dump
+0068.300 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_actionscheduler_actions.table.gz (4/51): adding to final database dump
+0068.304 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_actionscheduler_claims.table.gz (5/51): adding to final database dump
+0068.307 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_actionscheduler_groups.table.gz (6/51): adding to final database dump
+0068.310 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_actionscheduler_logs.table.gz (7/51): adding to final database dump
+0068.313 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_commentmeta.table.gz (8/51): adding to final database dump
+0068.316 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_comments.table.gz (9/51): adding to final database dump
+0068.319 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_links.table.gz (10/51): adding to final database dump
+0068.322 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_postmeta.table.gz (11/51): adding to final database dump
+0068.329 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_posts.table.gz (12/51): adding to final database dump
+0068.335 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_term_relationships.table.gz (13/51): adding to final database dump
+0068.338 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_term_taxonomy.table.gz (14/51): adding to final database dump
+0068.341 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_termmeta.table.gz (15/51): adding to final database dump
+0068.344 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_terms.table.gz (16/51): adding to final database dump
+0068.348 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_category_lookup.table.gz (17/51): adding to final database dump
+0068.350 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_product_meta_lookup.table.gz (18/51): adding to final database dump
+0068.353 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_reserved_stock.table.gz (19/51): adding to final database dump
+0068.356 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_tax_rate_classes.table.gz (20/51): adding to final database dump
+0068.359 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_order_itemmeta.table.gz (21/51): adding to final database dump
+0068.362 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_payment_tokenmeta.table.gz (22/51): adding to final database dump
+0068.366 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_yoast_seo_links.table.gz (23/51): adding to final database dump
+0068.369 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_yoast_seo_meta.table.gz (24/51): adding to final database dump
+0068.372 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_mailchimp_carts.table.gz (25/51): adding to final database dump
+0068.376 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_mailchimp_jobs.table.gz (26/51): adding to final database dump
+0068.379 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_admin_note_actions.table.gz (27/51): adding to final database dump
+0068.383 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_admin_notes.table.gz (28/51): adding to final database dump
+0068.386 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_customer_lookup.table.gz (29/51): adding to final database dump
+0068.390 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_download_log.table.gz (30/51): adding to final database dump
+0068.393 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_order_coupon_lookup.table.gz (31/51): adding to final database dump
+0068.397 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_order_product_lookup.table.gz (32/51): adding to final database dump
+0068.400 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_order_stats.table.gz (33/51): adding to final database dump
+0068.404 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_order_tax_lookup.table.gz (34/51): adding to final database dump
+0068.407 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_wc_webhooks.table.gz (35/51): adding to final database dump
+0068.410 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_api_keys.table.gz (36/51): adding to final database dump
+0068.414 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_attribute_taxonomies.table.gz (37/51): adding to final database dump
+0068.417 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_downloadable_product_permissions.table.gz (38/51): adding to final database dump
+0068.421 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_log.table.gz (39/51): adding to final database dump
+0068.425 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_order_items.table.gz (40/51): adding to final database dump
+0068.428 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_payment_tokens.table.gz (41/51): adding to final database dump
+0068.432 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_sessions.table.gz (42/51): adding to final database dump
+0068.435 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_shipping_zone_locations.table.gz (43/51): adding to final database dump
+0068.439 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_shipping_zone_methods.table.gz (44/51): adding to final database dump
+0068.442 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_shipping_zones.table.gz (45/51): adding to final database dump
+0068.446 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_tax_rate_locations.table.gz (46/51): adding to final database dump
+0068.450 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_woocommerce_tax_rates.table.gz (47/51): adding to final database dump
+0068.453 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_yoast_indexable.table.gz (48/51): adding to final database dump
+0068.458 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_yoast_indexable_hierarchy.table.gz (49/51): adding to final database dump
+0068.461 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_yoast_migrations.table.gz (50/51): adding to final database dump
+0068.464 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db-table-lp_yoast_primary_term.table.gz (51/51): adding to final database dump
+0068.484 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz: finished writing out complete database file (48 KB)
+0068.506 (0) Total database tables backed up: 51 (backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz, size: 65052, sha1: be190c3d5d009e96665501df491db0d2654b885b, sha256: 9783979582f1f6349c1d872c4e2f777da9ad52942b2a012a92d07031b2f817e8)
+0068.519 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0068.521 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0068.523 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0068.526 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip: others: This file has not yet been successfully uploaded: will queue
+0068.528 (0) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz: db: This file has not yet been successfully uploaded: will queue
+0068.530 (0) Saving backup history. Total backup size: 128.2 MB
+0068.535 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0068.542 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0068.546 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-3134e6d82424c26b153c0fc30d7143ed)
+0069.336 (0) Google Drive: creating path: /UpdraftPlus
+0070.843 (0) Google Drive: quota usage: used=20471.9 MB, total=102400 MB, available=81928.1 MB
+0070.846 (0) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+0072.126 (0) Googledrive chunked upload: 2.9 % uploaded (1048576)
+0132.137 (0) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0132.139 (0) An error condition has occurred for the first time during this job
+0132.542 (0) Google Drive: quota usage: used=20471.9 MB, total=102400 MB, available=81928.1 MB
+0132.544 (0) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+0192.871 (0) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0193.406 (0) Google Drive: quota usage: used=20471.9 MB, total=102400 MB, available=81928.1 MB
+0193.411 (0) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+0253.841 (0) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0254.215 (0) Google Drive: quota usage: used=20471.9 MB, total=102400 MB, available=81928.1 MB
+0254.218 (0) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+0303.831 (1) Opened log file at time: Mon, 10 Aug 2020 21:03:13 +0000 on http://localhost/louispaulkoffiemaker
+0303.836 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.3.5 (apache2handler, Windows NT DESKTOP-H29UF1S 10.0 build 18362 (Windows 10) i586) MySQL: 5.7.26 WPLANG: nl_BE Server: Apache/2.4.39 (Win32) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.6M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0303.839 (1) Free space on disk containing Updraft's temporary directory: 5913.1 MB
+0303.848 (1) Backup run: resumption=1, nonce=81e712d6cbb4, file_nonce=81e712d6cbb4 begun at=1597093089 (304s ago), job type=backup, previous check-in=72.1s
+0303.856 (1) Scheduling a resumption (2) after 300 seconds (1597093693) in case this run gets aborted
+0303.867 (1) Checking if we have a zip executable available
+0303.872 (1) Creation of backups of directories: already finished
+0303.877 (1) Saving backup status to database (elements: 8)
+0303.888 (1) Database dump (WordPress DB): Creation was completed already
+0303.906 (1) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0303.910 (1) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0303.914 (1) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0303.918 (1) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip: others: This file has not yet been successfully uploaded: will queue
+0303.921 (1) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz: db: This file has not yet been successfully uploaded: will queue
+0303.924 (1) Saving backup history. Total backup size: 128.2 MB
+0303.934 (1) Requesting upload of the files that have not yet been successfully uploaded (5)
+0303.938 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0303.942 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-3134e6d82424c26b153c0fc30d7143ed)
+0305.254 (1) Google Drive: quota usage: used=20471.9 MB, total=102400 MB, available=81928.1 MB
+0305.258 (1) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+0305.392 (1) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: upload already began; attempting to resume from byte 1835007
+0306.087 (1) Googledrive chunked upload: 7.9 % uploaded (2883584)
+0314.569 (0) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0314.905 (0) Google Drive: quota usage: used=20471.9 MB, total=102400 MB, available=81928.1 MB
+0314.908 (0) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+0316.483 (0) The time we have been running (316.5) is approaching the resumption interval (300) - increasing resumption interval to 347
+0316.489 (0) Googledrive chunked upload: 100 % uploaded
+0316.497 (0) Google Drive: OK: Archive backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz uploaded in 1.58 seconds
+0316.500 (0) Recording as successfully uploaded: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz
+0316.506 (0) Deleting local file: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz: OK
+0316.512 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0316.516 (0) Number of backup sets in history: 2; groups (db): 1
+0316.519 (0) Examining (for databases) backup set with group_id=0, nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+0316.522 (0) This backup set is the backup set just made, so will not be deleted.
+0316.522 (0) Examining (for databases) backup set with group_id=0, nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+0316.522 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0316.524 (0) Number of backup sets in history: 2; groups (files): 1
+0316.527 (0) Examining (for files) backup set with nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+0316.527 (0) This backup set is the backup set just made, so will not be deleted.
+0316.529 (0) This backup set is the backup set just made, so will not be deleted.
+0316.530 (0) This backup set is the backup set just made, so will not be deleted.
+0316.531 (0) This backup set is the backup set just made, so will not be deleted.
+0316.532 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0316.535 (0) Examining (for files) backup set with nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+0316.535 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0316.537 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0316.546 (0) Resume backup (81e712d6cbb4, 0): finish run
+0316.551 (0) Decremented the semaphore (fd) by 1
+0316.554 (0) Semaphore (fd) unlocked
+0316.557 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0316.566 (0) Rescheduling resumption 1: moving to 100 seconds from now (1597093505)
+0316.571 (0) No email will/can be sent - the user has not configured an email address.
+0316.574 (0) De backup is niet afgemaakt; er is een hervatting gepland
+0366.105 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0366.109 (1) An error condition has occurred for the first time during this job
+0366.442 (1) Google Drive: quota usage: used=20472 MB, total=102400 MB, available=81928 MB
+0366.444 (1) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+0367.457 (1) Googledrive chunked upload: 1.4 % uploaded (1048576)
+0368.422 (1) Googledrive chunked upload: 2.8 % uploaded (2097152)
+0369.068 (1) Googledrive chunked upload: 4.3 % uploaded (3145728)
+0424.102 (1) Opened log file at time: Mon, 10 Aug 2020 21:05:13 +0000 on http://localhost/louispaulkoffiemaker
+0424.109 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.3.5 (apache2handler, Windows NT DESKTOP-H29UF1S 10.0 build 18362 (Windows 10) i586) MySQL: 5.7.26 WPLANG: nl_BE Server: Apache/2.4.39 (Win32) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.6M | 16M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0424.116 (1) Free space on disk containing Updraft's temporary directory: 5911.7 MB
+0424.128 (1) Backup run: resumption=1, nonce=81e712d6cbb4, file_nonce=81e712d6cbb4 begun at=1597093089 (424s ago), job type=backup, previous check-in=72.1s
+0424.135 (1) Scheduling a resumption (2) after 300 seconds (1597093813) in case this run gets aborted
+0424.148 (1) Checking if we have a zip executable available
+0424.153 (1) Creation of backups of directories: already finished
+0424.160 (1) Saving backup status to database (elements: 8)
+0424.177 (1) Database dump (WordPress DB): Creation was completed already
+0424.193 (1) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0424.197 (1) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0424.202 (1) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0424.206 (1) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip: others: This file has not yet been successfully uploaded: will queue
+0424.211 (1) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz: db: This file is not ours to upload and has been/will be handled by another job.
+0424.215 (1) Saving backup history. Total backup size: Unknown
+0424.228 (1) Requesting upload of the files that have not yet been successfully uploaded (4)
+0424.233 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0424.238 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-3134e6d82424c26b153c0fc30d7143ed)
+0425.517 (1) Google Drive: quota usage: used=20472 MB, total=102400 MB, available=81928 MB
+0425.520 (1) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+0425.634 (1) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: upload already began; attempting to resume from byte 3670015
+0426.580 (1) Googledrive chunked upload: 13 % uploaded (4718592)
+0427.534 (1) Googledrive chunked upload: 15.9 % uploaded (5767168)
+0428.238 (1) Googledrive chunked upload: 18.8 % uploaded (6815744)
+0429.073 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0429.518 (1) Google Drive: quota usage: used=20472 MB, total=102400 MB, available=81928 MB
+0429.521 (1) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+0430.837 (1) Googledrive chunked upload: 4.6 % uploaded (1048576)
+0488.246 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0488.249 (1) An error condition has occurred for the first time during this job
+0488.674 (1) Google Drive: quota usage: used=20472 MB, total=102400 MB, available=81928 MB
+0488.677 (1) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+0488.785 (1) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: upload already began; attempting to resume from byte 3932159
+0489.697 (1) Googledrive chunked upload: 6.8 % uploaded (4980736)
+0490.649 (1) Googledrive chunked upload: 8.2 % uploaded (6029312)
+0490.845 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0491.299 (1) Google Drive: quota usage: used=20472 MB, total=102400 MB, available=81928 MB
+0491.299 (1) Googledrive chunked upload: 9.6 % uploaded (7077888)
+0491.302 (1) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+0492.328 (1) Googledrive chunked upload: 64.4 % uploaded (1048576)
+0492.654 (1) Googledrive chunked upload: 11 % uploaded (8126464)
+0493.988 (1) Googledrive chunked upload: 100 % uploaded (1048576)
+0494.006 (1) Google Drive: OK: Archive backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip uploaded in 2.7 seconds
+0494.012 (1) Recording as successfully uploaded: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip
+0494.026 (1) Deleting local file: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip: OK
+0494.582 (1) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+0494.588 (1) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+0494.595 (1) PHP event: code E_WARNING: filesize(): stat failed for C:\wamp\www\louispaulkoffiemaker/wp-content/updraft/backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz (line 649, C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\methods\googledrive.php)
+0494.613 (1) PHP event: code E_WARNING: filesize(): stat failed for C:\wamp\www\louispaulkoffiemaker/wp-content/updraft/backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz (line 1101, C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\methods\googledrive.php)
+0494.628 (1) Google Drive: OK: Archive backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz uploaded in 0.01 seconds
+0494.633 (1) Recording as successfully uploaded: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz
+0494.654 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0494.662 (1) Number of backup sets in history: 2; groups (db): 1
+0494.668 (1) Examining (for databases) backup set with group_id=0, nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+0494.676 (1) This backup set is the backup set just made, so will not be deleted.
+0494.676 (1) Examining (for databases) backup set with group_id=0, nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+0494.676 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0494.682 (1) Number of backup sets in history: 2; groups (files): 1
+0494.689 (1) Examining (for files) backup set with nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+0494.689 (1) This backup set is the backup set just made, so will not be deleted.
+0494.695 (1) This backup set is the backup set just made, so will not be deleted.
+0494.696 (1) This backup set is the backup set just made, so will not be deleted.
+0494.698 (1) This backup set is the backup set just made, so will not be deleted.
+0494.701 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0494.705 (1) Examining (for files) backup set with nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+0494.706 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0494.708 (1) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0494.721 (1) Resume backup (81e712d6cbb4, 1): finish run
+0494.729 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0494.741 (1) No email will/can be sent - the user has not configured an email address.
+0494.746 (1) De backup is niet afgemaakt; er is een hervatting gepland
+0552.661 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0553.083 (1) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+0553.085 (1) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+0613.428 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0613.850 (1) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+0613.859 (1) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+0613.865 (1) PHP event: code E_WARNING: filesize(): stat failed for C:\wamp\www\louispaulkoffiemaker/wp-content/updraft/backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip (line 649, C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\methods\googledrive.php)
+0613.882 (1) PHP event: code E_WARNING: filesize(): stat failed for C:\wamp\www\louispaulkoffiemaker/wp-content/updraft/backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip (line 1101, C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\methods\googledrive.php)
+0613.906 (1) Google Drive: OK: Archive backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip uploaded in 0.02 seconds
+0613.913 (1) Recording as successfully uploaded: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip
+0613.935 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0613.942 (1) Number of backup sets in history: 2; groups (db): 1
+0613.946 (1) Examining (for databases) backup set with group_id=0, nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+0613.950 (1) This backup set is the backup set just made, so will not be deleted.
+0613.950 (1) Examining (for databases) backup set with group_id=0, nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+0613.951 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0613.957 (1) Number of backup sets in history: 2; groups (files): 1
+0613.962 (1) Examining (for files) backup set with nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+0613.962 (1) This backup set is the backup set just made, so will not be deleted.
+0613.967 (1) This backup set is the backup set just made, so will not be deleted.
+0613.970 (1) This backup set is the backup set just made, so will not be deleted.
+0613.972 (1) This backup set is the backup set just made, so will not be deleted.
+0613.974 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0613.980 (1) Examining (for files) backup set with nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+0613.980 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0613.983 (1) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0614.005 (1) Resume backup (81e712d6cbb4, 1): finish run
+0614.019 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0614.040 (1) No email will/can be sent - the user has not configured an email address.
+0614.048 (1) De backup is niet afgemaakt; er is een hervatting gepland
+0745.057 (2) Opened log file at time: Mon, 10 Aug 2020 21:10:34 +0000 on http://localhost/louispaulkoffiemaker
+0745.059 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.3.5 (apache2handler, Windows NT DESKTOP-H29UF1S 10.0 build 18362 (Windows 10) i586) MySQL: 5.7.26 WPLANG: nl_BE Server: Apache/2.4.39 (Win32) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.6M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0745.060 (2) Free space on disk containing Updraft's temporary directory: 5905 MB
+0745.063 (2) Backup run: resumption=2, nonce=81e712d6cbb4, file_nonce=81e712d6cbb4 begun at=1597093089 (745s ago), job type=backup, previous check-in=68.5s
+0745.067 (2) Scheduling a resumption (3) after 300 seconds (1597094134) in case this run gets aborted
+0745.070 (2) Checking if we have a zip executable available
+0745.071 (2) Creation of backups of directories: already finished
+0745.073 (2) Saving backup status to database (elements: 8)
+0745.078 (2) Database dump (WordPress DB): Creation was completed already
+0745.083 (2) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0745.084 (2) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0745.085 (2) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0745.087 (2) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip: others: This file has already been successfully uploaded
+0745.088 (2) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz: db: This file is not ours to upload and has been/will be handled by another job.
+0745.089 (2) Saving backup history. Total backup size: Unknown
+0745.093 (2) Requesting upload of the files that have not yet been successfully uploaded (3)
+0745.096 (2) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0745.097 (2) Beginning dispatch of backup to remote (googledrive) (instance identifier s-3134e6d82424c26b153c0fc30d7143ed)
+0746.315 (2) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+0746.317 (2) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+0746.439 (2) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: upload already began; attempting to resume from byte 7864319
+0747.127 (2) Googledrive chunked upload: 24.6 % uploaded (8912896)
+0748.209 (2) Googledrive chunked upload: 27.5 % uploaded (9961472)
+0748.979 (2) Googledrive chunked upload: 30.3 % uploaded (11010048)
+0809.005 (2) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0809.008 (2) An error condition has occurred for the first time during this job
+0809.440 (2) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+0809.443 (2) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+0809.577 (2) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: upload already began; attempting to resume from byte 9175039
+0810.517 (2) Googledrive chunked upload: 13.9 % uploaded (10223616)
+0811.510 (2) Googledrive chunked upload: 15.3 % uploaded (11272192)
+0812.487 (2) Googledrive chunked upload: 16.7 % uploaded (12320768)
+0813.469 (2) Googledrive chunked upload: 18.2 % uploaded (13369344)
+0814.125 (2) Googledrive chunked upload: 19.6 % uploaded (14417920)
+0815.106 (2) Googledrive chunked upload: 21 % uploaded (15466496)
+0815.753 (2) Googledrive chunked upload: 22.4 % uploaded (16515072)
+0816.680 (2) Googledrive chunked upload: 23.9 % uploaded (17563648)
+0817.336 (2) Googledrive chunked upload: 25.3 % uploaded (18612224)
+0817.989 (2) Googledrive chunked upload: 26.7 % uploaded (19660800)
+0878.002 (2) Google Drive: Upload error: Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0878.391 (2) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+0878.394 (2) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+0879.504 (2) Googledrive chunked upload: 4.6 % uploaded (1048576)
+0880.157 (2) Googledrive chunked upload: 9.2 % uploaded (2097152)
+0880.793 (2) Googledrive chunked upload: 13.8 % uploaded (3145728)
+0940.806 (2) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0940.820 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0940.827 (2) Number of backup sets in history: 2; groups (db): 1
+0940.833 (2) Examining (for databases) backup set with group_id=0, nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+0940.839 (2) This backup set is the backup set just made, so will not be deleted.
+0940.839 (2) Examining (for databases) backup set with group_id=0, nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+0940.840 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0940.844 (2) Number of backup sets in history: 2; groups (files): 1
+0940.850 (2) Examining (for files) backup set with nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+0940.850 (2) This backup set is the backup set just made, so will not be deleted.
+0940.855 (2) This backup set is the backup set just made, so will not be deleted.
+0940.857 (2) This backup set is the backup set just made, so will not be deleted.
+0940.859 (2) This backup set is the backup set just made, so will not be deleted.
+0940.860 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0940.866 (2) Examining (for files) backup set with nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+0940.867 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0940.868 (2) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0940.881 (2) Resume backup (81e712d6cbb4, 2): finish run
+0940.887 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0940.898 (2) No email will/can be sent - the user has not configured an email address.
+0940.902 (2) De backup is niet afgemaakt; er is een hervatting gepland
+1076.228 (3) Opened log file at time: Mon, 10 Aug 2020 21:16:05 +0000 on http://localhost/louispaulkoffiemaker
+1076.230 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.3.5 (apache2handler, Windows NT DESKTOP-H29UF1S 10.0 build 18362 (Windows 10) i586) MySQL: 5.7.26 WPLANG: nl_BE Server: Apache/2.4.39 (Win32) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.6M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+1076.231 (3) Free space on disk containing Updraft's temporary directory: 5904.6 MB
+1076.234 (3) Backup run: resumption=3, nonce=81e712d6cbb4, file_nonce=81e712d6cbb4 begun at=1597093089 (1076s ago), job type=backup, previous check-in=135.7s
+1076.237 (3) Scheduling a resumption (4) after 300 seconds (1597094465) in case this run gets aborted
+1076.240 (3) Checking if we have a zip executable available
+1076.241 (3) Creation of backups of directories: already finished
+1076.242 (3) Saving backup status to database (elements: 8)
+1076.246 (3) Database dump (WordPress DB): Creation was completed already
+1076.250 (3) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1076.252 (3) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1076.253 (3) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1076.255 (3) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip: others: This file has already been successfully uploaded
+1076.256 (3) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz: db: This file is not ours to upload and has been/will be handled by another job.
+1076.257 (3) Saving backup history. Total backup size: Unknown
+1076.261 (3) Requesting upload of the files that have not yet been successfully uploaded (3)
+1076.264 (3) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+1076.266 (3) Beginning dispatch of backup to remote (googledrive) (instance identifier s-3134e6d82424c26b153c0fc30d7143ed)
+1077.338 (3) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+1077.341 (3) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+1077.438 (3) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: upload already began; attempting to resume from byte 12058623
+1078.126 (3) Googledrive chunked upload: 36.1 % uploaded (13107200)
+1078.828 (3) Googledrive chunked upload: 39 % uploaded (14155776)
+1079.494 (3) Googledrive chunked upload: 41.9 % uploaded (15204352)
+1080.606 (3) Googledrive chunked upload: 44.8 % uploaded (16252928)
+1081.869 (3) Googledrive chunked upload: 47.7 % uploaded (17301504)
+1141.887 (3) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1141.889 (3) An error condition has occurred for the first time during this job
+1142.243 (3) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+1142.246 (3) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+1142.411 (3) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: upload already began; attempting to resume from byte 20447231
+1143.086 (3) Googledrive chunked upload: 29.2 % uploaded (21495808)
+1143.824 (3) Googledrive chunked upload: 30.6 % uploaded (22544384)
+1144.761 (3) Googledrive chunked upload: 32 % uploaded (23592960)
+1145.888 (3) Googledrive chunked upload: 33.5 % uploaded (24641536)
+1146.633 (3) Googledrive chunked upload: 34.9 % uploaded (25690112)
+1147.624 (3) Googledrive chunked upload: 36.3 % uploaded (26738688)
+1148.281 (3) Googledrive chunked upload: 37.7 % uploaded (27787264)
+1148.945 (3) Googledrive chunked upload: 39.2 % uploaded (28835840)
+1208.958 (3) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1209.309 (3) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+1209.312 (3) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+1209.414 (3) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: upload already began; attempting to resume from byte 4194303
+1210.451 (3) Googledrive chunked upload: 23 % uploaded (5242880)
+1211.110 (3) Googledrive chunked upload: 27.6 % uploaded (6291456)
+1211.774 (3) Googledrive chunked upload: 32.2 % uploaded (7340032)
+1212.752 (3) Googledrive chunked upload: 36.8 % uploaded (8388608)
+1213.698 (3) Googledrive chunked upload: 41.3 % uploaded (9437184)
+1214.668 (3) Googledrive chunked upload: 45.9 % uploaded (10485760)
+1215.345 (3) Googledrive chunked upload: 50.5 % uploaded (11534336)
+1216.280 (3) Googledrive chunked upload: 55.1 % uploaded (12582912)
+1276.301 (3) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1276.313 (3) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1276.318 (3) Number of backup sets in history: 2; groups (db): 1
+1276.322 (3) Examining (for databases) backup set with group_id=0, nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+1276.326 (3) This backup set is the backup set just made, so will not be deleted.
+1276.327 (3) Examining (for databases) backup set with group_id=0, nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+1276.327 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1276.332 (3) Number of backup sets in history: 2; groups (files): 1
+1276.336 (3) Examining (for files) backup set with nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+1276.336 (3) This backup set is the backup set just made, so will not be deleted.
+1276.340 (3) This backup set is the backup set just made, so will not be deleted.
+1276.342 (3) This backup set is the backup set just made, so will not be deleted.
+1276.344 (3) This backup set is the backup set just made, so will not be deleted.
+1276.346 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1276.349 (3) Examining (for files) backup set with nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+1276.349 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1276.351 (3) Retain: saving new backup history (sets now: 2) and finishing retain operation
+1276.364 (3) Resume backup (81e712d6cbb4, 3): finish run
+1276.367 (3) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1276.376 (3) No email will/can be sent - the user has not configured an email address.
+1276.379 (3) De backup is niet afgemaakt; er is een hervatting gepland
+1436.174 (4) Opened log file at time: Mon, 10 Aug 2020 21:22:05 +0000 on http://localhost/louispaulkoffiemaker
+1436.176 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.3.5 (apache2handler, Windows NT DESKTOP-H29UF1S 10.0 build 18362 (Windows 10) i586) MySQL: 5.7.26 WPLANG: nl_BE Server: Apache/2.4.39 (Win32) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.6M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+1436.177 (4) Free space on disk containing Updraft's temporary directory: 5901.6 MB
+1436.180 (4) Backup run: resumption=4, nonce=81e712d6cbb4, file_nonce=81e712d6cbb4 begun at=1597093089 (1436s ago), job type=backup, previous check-in=140s
+1436.182 (4) Scheduling a resumption (5) after 300 seconds (1597094825) in case this run gets aborted
+1436.186 (4) Checking if we have a zip executable available
+1436.188 (4) Creation of backups of directories: already finished
+1436.189 (4) Saving backup status to database (elements: 8)
+1436.194 (4) Database dump (WordPress DB): Creation was completed already
+1436.198 (4) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1436.199 (4) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1436.200 (4) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1436.201 (4) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip: others: This file has already been successfully uploaded
+1436.202 (4) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz: db: This file is not ours to upload and has been/will be handled by another job.
+1436.203 (4) Saving backup history. Total backup size: Unknown
+1436.206 (4) Requesting upload of the files that have not yet been successfully uploaded (3)
+1436.209 (4) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+1436.210 (4) Beginning dispatch of backup to remote (googledrive) (instance identifier s-3134e6d82424c26b153c0fc30d7143ed)
+1437.366 (4) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+1437.367 (4) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+1437.477 (4) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: upload already began; attempting to resume from byte 18350079
+1438.137 (4) Googledrive chunked upload: 53.5 % uploaded (19398656)
+1498.157 (4) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1498.159 (4) An error condition has occurred for the first time during this job
+1498.673 (4) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+1498.676 (4) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+1498.779 (4) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: upload already began; attempting to resume from byte 29884415
+1499.428 (4) Googledrive chunked upload: 42 % uploaded (30932992)
+1500.072 (4) Googledrive chunked upload: 43.4 % uploaded (31981568)
+1560.086 (4) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1560.439 (4) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+1560.442 (4) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+1560.548 (4) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: upload already began; attempting to resume from byte 13631487
+1620.564 (4) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1620.569 (4) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1620.571 (4) Number of backup sets in history: 2; groups (db): 1
+1620.573 (4) Examining (for databases) backup set with group_id=0, nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+1620.575 (4) This backup set is the backup set just made, so will not be deleted.
+1620.575 (4) Examining (for databases) backup set with group_id=0, nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+1620.575 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1620.577 (4) Number of backup sets in history: 2; groups (files): 1
+1620.579 (4) Examining (for files) backup set with nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+1620.579 (4) This backup set is the backup set just made, so will not be deleted.
+1620.581 (4) This backup set is the backup set just made, so will not be deleted.
+1620.582 (4) This backup set is the backup set just made, so will not be deleted.
+1620.582 (4) This backup set is the backup set just made, so will not be deleted.
+1620.587 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1620.589 (4) Examining (for files) backup set with nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+1620.589 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1620.589 (4) Retain: saving new backup history (sets now: 2) and finishing retain operation
+1620.595 (4) Resume backup (81e712d6cbb4, 4): finish run
+1620.598 (4) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1620.602 (4) No email will/can be sent - the user has not configured an email address.
+1620.603 (4) De backup is niet afgemaakt; er is een hervatting gepland
+1764.207 (5) Opened log file at time: Mon, 10 Aug 2020 21:27:33 +0000 on http://localhost/louispaulkoffiemaker
+1764.210 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.3.5 (apache2handler, Windows NT DESKTOP-H29UF1S 10.0 build 18362 (Windows 10) i586) MySQL: 5.7.26 WPLANG: nl_BE Server: Apache/2.4.39 (Win32) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.6M | 6M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+1764.212 (5) Free space on disk containing Updraft's temporary directory: 5893.8 MB
+1764.216 (5) Backup run: resumption=5, nonce=81e712d6cbb4, file_nonce=81e712d6cbb4 begun at=1597093089 (1764s ago), job type=backup, previous check-in=63.9s
+1764.220 (5) Scheduling a resumption (6) after 300 seconds (1597095153) in case this run gets aborted
+1764.225 (5) Checking if we have a zip executable available
+1764.227 (5) Creation of backups of directories: already finished
+1764.229 (5) Saving backup status to database (elements: 8)
+1764.235 (5) Database dump (WordPress DB): Creation was completed already
+1764.242 (5) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1764.244 (5) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+1764.246 (5) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1764.248 (5) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip: others: This file has already been successfully uploaded
+1764.250 (5) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz: db: This file is not ours to upload and has been/will be handled by another job.
+1764.252 (5) Saving backup history. Total backup size: Unknown
+1764.259 (5) Requesting upload of the files that have not yet been successfully uploaded (3)
+1764.264 (5) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+1764.266 (5) Beginning dispatch of backup to remote (googledrive) (instance identifier s-3134e6d82424c26b153c0fc30d7143ed)
+1765.390 (5) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+1765.393 (5) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+1765.516 (5) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: upload already began; attempting to resume from byte 20185087
+1766.248 (5) Googledrive chunked upload: 58.5 % uploaded (21233664)
+1766.961 (5) Googledrive chunked upload: 61.4 % uploaded (22282240)
+1767.975 (5) Googledrive chunked upload: 64.3 % uploaded (23330816)
+1769.266 (5) Googledrive chunked upload: 67.2 % uploaded (24379392)
+1829.278 (5) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1829.281 (5) An error condition has occurred for the first time during this job
+1829.799 (5) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+1829.802 (5) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+1829.917 (5) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: upload already began; attempting to resume from byte 32767999
+1889.929 (5) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1890.245 (5) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+1890.248 (5) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+1890.353 (5) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: upload already began; attempting to resume from byte 14680063
+1891.036 (5) Googledrive chunked upload: 68.9 % uploaded (15728640)
+1951.049 (5) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1951.056 (5) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1951.059 (5) Number of backup sets in history: 2; groups (db): 1
+1951.061 (5) Examining (for databases) backup set with group_id=0, nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+1951.064 (5) This backup set is the backup set just made, so will not be deleted.
+1951.064 (5) Examining (for databases) backup set with group_id=0, nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+1951.064 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+1951.066 (5) Number of backup sets in history: 2; groups (files): 1
+1951.068 (5) Examining (for files) backup set with nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+1951.069 (5) This backup set is the backup set just made, so will not be deleted.
+1951.071 (5) This backup set is the backup set just made, so will not be deleted.
+1951.071 (5) This backup set is the backup set just made, so will not be deleted.
+1951.072 (5) This backup set is the backup set just made, so will not be deleted.
+1951.073 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+1951.075 (5) Examining (for files) backup set with nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+1951.075 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+1951.076 (5) Retain: saving new backup history (sets now: 2) and finishing retain operation
+1951.082 (5) Resume backup (81e712d6cbb4, 5): finish run
+1951.085 (5) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1951.090 (5) No email will/can be sent - the user has not configured an email address.
+1951.092 (5) De backup is niet afgemaakt; er is een hervatting gepland
+2074.883 (6) Opened log file at time: Mon, 10 Aug 2020 21:32:44 +0000 on http://localhost/louispaulkoffiemaker
+2074.885 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.3.5 (apache2handler, Windows NT DESKTOP-H29UF1S 10.0 build 18362 (Windows 10) i586) MySQL: 5.7.26 WPLANG: nl_BE Server: Apache/2.4.39 (Win32) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.6M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+2074.886 (6) Free space on disk containing Updraft's temporary directory: 5889.4 MB
+2074.889 (6) Backup run: resumption=6, nonce=81e712d6cbb4, file_nonce=81e712d6cbb4 begun at=1597093089 (2075s ago), job type=backup, previous check-in=126.8s
+2074.892 (6) Scheduling a resumption (7) after 300 seconds (1597095464) in case this run gets aborted
+2074.895 (6) Checking if we have a zip executable available
+2074.896 (6) Creation of backups of directories: already finished
+2074.898 (6) Saving backup status to database (elements: 8)
+2074.902 (6) Database dump (WordPress DB): Creation was completed already
+2074.906 (6) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2074.908 (6) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2074.909 (6) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2074.910 (6) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip: others: This file has already been successfully uploaded
+2074.911 (6) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz: db: This file is not ours to upload and has been/will be handled by another job.
+2074.913 (6) Saving backup history. Total backup size: Unknown
+2074.917 (6) Requesting upload of the files that have not yet been successfully uploaded (3)
+2074.919 (6) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+2074.921 (6) Beginning dispatch of backup to remote (googledrive) (instance identifier s-3134e6d82424c26b153c0fc30d7143ed)
+2075.540 (6) Google Drive: get_subitems: An error occurred (will not fetch further): Error calling GET https://www.googleapis.com/drive/v2/files?q=%220AEGnsGmJbAHRUk9PVA%22+in+parents+and+trashed+%3D+false+and+mimeType+%3D+%22application%2Fvnd.google-apps.folder%22+and+title+%3D+%27UpdraftPlus%27&maxResults=200: (403) Rate Limit Exceeded
+2075.543 (6) Google Drive: creating path: /UpdraftPlus
+2076.927 (6) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+2076.930 (6) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: Attempting to upload to Google Drive (into folder id: 1vyM3S3b1pjI8RQTdrSGvOXwt8jNIJkPm)
+2077.047 (6) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: upload already began; attempting to resume from byte 25427967
+2078.006 (6) Googledrive chunked upload: 73 % uploaded (26476544)
+2078.955 (6) Googledrive chunked upload: 75.9 % uploaded (27525120)
+2138.973 (6) Google Drive: Upload error: Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2138.976 (6) An error condition has occurred for the first time during this job
+2139.332 (6) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+2139.335 (6) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: Attempting to upload to Google Drive (into folder id: 1vyM3S3b1pjI8RQTdrSGvOXwt8jNIJkPm)
+2139.448 (6) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: upload already began; attempting to resume from byte 33816575
+2140.380 (6) Googledrive chunked upload: 47.4 % uploaded (34865152)
+2200.399 (6) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2200.879 (6) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+2200.882 (6) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: Attempting to upload to Google Drive (into folder id: 1vyM3S3b1pjI8RQTdrSGvOXwt8jNIJkPm)
+2201.010 (6) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: upload already began; attempting to resume from byte 16777215
+2202.043 (6) Googledrive chunked upload: 78.1 % uploaded (17825792)
+2203.011 (6) Googledrive chunked upload: 82.7 % uploaded (18874368)
+2263.027 (6) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2263.033 (6) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2263.036 (6) Number of backup sets in history: 2; groups (db): 1
+2263.038 (6) Examining (for databases) backup set with group_id=0, nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+2263.040 (6) This backup set is the backup set just made, so will not be deleted.
+2263.040 (6) Examining (for databases) backup set with group_id=0, nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+2263.040 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2263.042 (6) Number of backup sets in history: 2; groups (files): 1
+2263.044 (6) Examining (for files) backup set with nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+2263.044 (6) This backup set is the backup set just made, so will not be deleted.
+2263.046 (6) This backup set is the backup set just made, so will not be deleted.
+2263.046 (6) This backup set is the backup set just made, so will not be deleted.
+2263.047 (6) This backup set is the backup set just made, so will not be deleted.
+2263.048 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2263.049 (6) Examining (for files) backup set with nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+2263.049 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2263.050 (6) Retain: saving new backup history (sets now: 2) and finishing retain operation
+2263.056 (6) Resume backup (81e712d6cbb4, 6): finish run
+2263.058 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2263.063 (6) No email will/can be sent - the user has not configured an email address.
+2263.066 (6) De backup is niet afgemaakt; er is een hervatting gepland
+2434.163 (7) Opened log file at time: Mon, 10 Aug 2020 21:38:43 +0000 on http://localhost/louispaulkoffiemaker
+2434.165 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.3.5 (apache2handler, Windows NT DESKTOP-H29UF1S 10.0 build 18362 (Windows 10) i586) MySQL: 5.7.26 WPLANG: nl_BE Server: Apache/2.4.39 (Win32) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.6M | 8M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+2434.166 (7) Free space on disk containing Updraft's temporary directory: 5888.9 MB
+2434.169 (7) Backup run: resumption=7, nonce=81e712d6cbb4, file_nonce=81e712d6cbb4 begun at=1597093089 (2434s ago), job type=backup, previous check-in=128.1s
+2434.171 (7) Scheduling a resumption (8) after 300 seconds (1597095823) in case this run gets aborted
+2434.174 (7) Checking if we have a zip executable available
+2434.176 (7) Creation of backups of directories: already finished
+2434.177 (7) Saving backup status to database (elements: 8)
+2434.183 (7) Database dump (WordPress DB): Creation was completed already
+2434.186 (7) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2434.188 (7) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2434.189 (7) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2434.190 (7) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip: others: This file has already been successfully uploaded
+2434.191 (7) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz: db: This file is not ours to upload and has been/will be handled by another job.
+2434.192 (7) Saving backup history. Total backup size: Unknown
+2434.196 (7) Requesting upload of the files that have not yet been successfully uploaded (3)
+2434.199 (7) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+2434.200 (7) Beginning dispatch of backup to remote (googledrive) (instance identifier s-3134e6d82424c26b153c0fc30d7143ed)
+2435.029 (7) Google Drive: there appears to be more than one folder: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy, 1vyM3S3b1pjI8RQTdrSGvOXwt8jNIJkPm
+2435.434 (7) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+2435.436 (7) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+2435.575 (7) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: upload already began; attempting to resume from byte 28573695
+2495.594 (7) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2495.597 (7) An error condition has occurred for the first time during this job
+2495.951 (7) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+2495.954 (7) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+2496.077 (7) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: upload already began; attempting to resume from byte 35651583
+2496.851 (7) Googledrive chunked upload: 49.9 % uploaded (36700160)
+2497.886 (7) Googledrive chunked upload: 51.3 % uploaded (37748736)
+2498.566 (7) Googledrive chunked upload: 52.7 % uploaded (38797312)
+2499.985 (7) Googledrive chunked upload: 54.1 % uploaded (39845888)
+2500.732 (7) Googledrive chunked upload: 55.5 % uploaded (40894464)
+2501.716 (7) Googledrive chunked upload: 57 % uploaded (41943040)
+2502.391 (7) Googledrive chunked upload: 58.4 % uploaded (42991616)
+2503.073 (7) Googledrive chunked upload: 59.8 % uploaded (44040192)
+2503.742 (7) Googledrive chunked upload: 61.2 % uploaded (45088768)
+2563.756 (7) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2564.117 (7) Google Drive: quota usage: used=20473.5 MB, total=102400 MB, available=81926.5 MB
+2564.119 (7) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+2564.230 (7) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: upload already began; attempting to resume from byte 19922943
+2564.891 (7) Googledrive chunked upload: 91.9 % uploaded (20971520)
+2565.590 (7) Googledrive chunked upload: 96.5 % uploaded (22020096)
+2567.292 (7) Googledrive chunked upload: 100 % uploaded (22020096)
+2567.302 (7) Google Drive: OK: Archive backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip uploaded in 3.18 seconds
+2567.311 (7) Recording as successfully uploaded: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip
+2567.321 (7) Deleting local file: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: OK
+2567.328 (7) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2567.331 (7) Number of backup sets in history: 2; groups (db): 1
+2567.333 (7) Examining (for databases) backup set with group_id=0, nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+2567.335 (7) This backup set is the backup set just made, so will not be deleted.
+2567.335 (7) Examining (for databases) backup set with group_id=0, nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+2567.335 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+2567.337 (7) Number of backup sets in history: 2; groups (files): 1
+2567.339 (7) Examining (for files) backup set with nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+2567.339 (7) This backup set is the backup set just made, so will not be deleted.
+2567.340 (7) This backup set is the backup set just made, so will not be deleted.
+2567.341 (7) This backup set is the backup set just made, so will not be deleted.
+2567.341 (7) This backup set is the backup set just made, so will not be deleted.
+2567.342 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+2567.343 (7) Examining (for files) backup set with nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+2567.344 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+2567.344 (7) Retain: saving new backup history (sets now: 2) and finishing retain operation
+2568.458 (7) Google Drive: removed empty duplicate folder (1vyM3S3b1pjI8RQTdrSGvOXwt8jNIJkPm)
+2568.466 (7) Resume backup (81e712d6cbb4, 7): finish run
+2568.471 (7) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2568.478 (7) No email will/can be sent - the user has not configured an email address.
+2568.480 (7) De backup is niet afgemaakt; er is een hervatting gepland
+2734.078 (8) Opened log file at time: Mon, 10 Aug 2020 21:43:43 +0000 on http://localhost/louispaulkoffiemaker
+2734.080 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.3.5 (apache2handler, Windows NT DESKTOP-H29UF1S 10.0 build 18362 (Windows 10) i586) MySQL: 5.7.26 WPLANG: nl_BE Server: Apache/2.4.39 (Win32) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.6M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+2734.081 (8) Free space on disk containing Updraft's temporary directory: 5911.6 MB
+2734.084 (8) Backup run: resumption=8, nonce=81e712d6cbb4, file_nonce=81e712d6cbb4 begun at=1597093089 (2734s ago), job type=backup, previous check-in=133.1s
+2734.086 (8) Time passed on previous resumptions: 0:72.1 1:68.5 2:135.7 3:140 4:63.9 5:126.8 6:128.1 7:133.1  (known: 8, max: 140)
+2734.087 (8) Based on the available data, we are bringing the resumption interval down to: 192 seconds
+2734.089 (8) Scheduling a resumption (9) after 192 seconds (1597096015) in case this run gets aborted
+2734.092 (8) Checking if we have a zip executable available
+2734.093 (8) Creation of backups of directories: already finished
+2734.094 (8) Saving backup status to database (elements: 8)
+2734.098 (8) Database dump (WordPress DB): Creation was completed already
+2734.101 (8) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2734.103 (8) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+2734.104 (8) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: uploads: This file has already been successfully uploaded
+2734.105 (8) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip: others: This file has already been successfully uploaded
+2734.106 (8) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz: db: This file is not ours to upload and has been/will be handled by another job.
+2734.106 (8) Saving backup history. Total backup size: Unknown
+2734.109 (8) Requesting upload of the files that have not yet been successfully uploaded (2)
+2734.111 (8) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+2734.113 (8) Beginning dispatch of backup to remote (googledrive) (instance identifier s-3134e6d82424c26b153c0fc30d7143ed)
+2735.136 (8) Google Drive: quota usage: used=20495.3 MB, total=102400 MB, available=81904.7 MB
+2735.139 (8) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+2735.253 (8) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: upload already began; attempting to resume from byte 29360127
+2735.958 (8) Googledrive chunked upload: 83.8 % uploaded (30408704)
+2795.976 (8) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2795.981 (8) An error condition has occurred for the first time during this job
+2796.488 (8) Google Drive: quota usage: used=20495.3 MB, total=102400 MB, available=81904.7 MB
+2796.494 (8) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+2796.698 (8) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: upload already began; attempting to resume from byte 45875199
+2856.722 (8) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2856.742 (8) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2856.754 (8) Number of backup sets in history: 2; groups (db): 1
+2856.760 (8) Examining (for databases) backup set with group_id=0, nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+2856.767 (8) This backup set is the backup set just made, so will not be deleted.
+2856.768 (8) Examining (for databases) backup set with group_id=0, nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+2856.768 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+2856.773 (8) Number of backup sets in history: 2; groups (files): 1
+2856.781 (8) Examining (for files) backup set with nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+2856.782 (8) This backup set is the backup set just made, so will not be deleted.
+2856.788 (8) This backup set is the backup set just made, so will not be deleted.
+2856.789 (8) This backup set is the backup set just made, so will not be deleted.
+2856.792 (8) This backup set is the backup set just made, so will not be deleted.
+2856.795 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+2856.802 (8) Examining (for files) backup set with nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+2856.803 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+2856.805 (8) Retain: saving new backup history (sets now: 2) and finishing retain operation
+2856.827 (8) Resume backup (81e712d6cbb4, 8): finish run
+2856.835 (8) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2856.854 (8) No email will/can be sent - the user has not configured an email address.
+2856.861 (8) De backup is niet afgemaakt; er is een hervatting gepland

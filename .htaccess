@@ -1,0 +1,24 @@
+
+# BEGIN WordPress
+# De richtlijnen (regels) tussen `BEGIN WordPress` and `END WordPress` worden
+# dynamisch aangemaakt en zouden enkel aangepast mogen worden via WordPress filters.
+# Elke wijziging aan deze richtlijnen tussen deze markeringen worden overschreven.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /louispaulkoffiemaker/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /louispaulkoffiemaker/index.php [L]
+</IfModule>
+
+# END WordPress
+
+
+
+php_value upload_max_filesize 64M
+php_value post_max_size 128M
+php_value memory_limit 256M
+php_value max_execution_time 300
+php_value max_input_time 300
+

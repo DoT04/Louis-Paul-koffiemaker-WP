@@ -981,3 +981,235 @@
 2856.835 (8) There were errors in the uploads, so the 'resume' event is remaining scheduled
 2856.854 (8) No email will/can be sent - the user has not configured an email address.
 2856.861 (8) De backup is niet afgemaakt; er is een hervatting gepland
+38052.397 (9) Opened log file at time: Tue, 11 Aug 2020 07:32:21 +0000 on http://localhost/louispaulkoffiemaker
+38052.400 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.3.5 (apache2handler, Windows NT DESKTOP-H29UF1S 10.0 build 18362 (Windows 10) i586) MySQL: 5.7.26 WPLANG: nl_BE Server: Apache/2.4.39 (Win32) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.6M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+38052.402 (9) Free space on disk containing Updraft's temporary directory: 5703.5 MB
+38052.405 (9) Backup run: resumption=9, nonce=81e712d6cbb4, file_nonce=81e712d6cbb4 begun at=1597093089 (38052s ago), job type=backup, previous check-in=1.9s
+38052.406 (9) Long time past since expected resumption time: approx expected=1597096017.3, now=1597131141.7, diff=35124.4
+38052.409 (9) [Warning] Deze website wordt weinig bezocht en UpdraftPlus krijgt niet de verwachte middelen; leest aub deze pagina: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+38052.411 (9) Scheduling a resumption (10) after 192 seconds (1597131333) in case this run gets aborted
+38052.419 (9) Creation of backups of directories: already finished
+38052.421 (9) Saving backup status to database (elements: 8)
+38052.430 (9) Database dump (WordPress DB): Creation was completed already
+38052.436 (9) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+38052.438 (9) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+38052.439 (9) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: uploads: This file has already been successfully uploaded
+38052.440 (9) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip: others: This file has already been successfully uploaded
+38052.441 (9) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz: db: This file is not ours to upload and has been/will be handled by another job.
+38052.442 (9) Saving backup history. Total backup size: Unknown
+38052.446 (9) Requesting upload of the files that have not yet been successfully uploaded (2)
+38052.450 (9) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+38052.451 (9) Beginning dispatch of backup to remote (googledrive) (instance identifier s-3134e6d82424c26b153c0fc30d7143ed)
+38056.161 (9) Google Drive: quota usage: used=20495.3 MB, total=102400 MB, available=81904.7 MB
+38056.165 (9) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+38056.295 (9) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: upload already began; attempting to resume from byte 31457279
+38116.314 (9) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+38116.316 (9) An error condition has occurred for the first time during this job
+38116.748 (9) Google Drive: quota usage: used=20495.3 MB, total=102400 MB, available=81904.7 MB
+38116.751 (9) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+38116.893 (9) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: upload already began; attempting to resume from byte 46923775
+38117.891 (9) Googledrive chunked upload: 65.2 % uploaded (47972352)
+38177.902 (9) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+38177.908 (9) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+38177.911 (9) Number of backup sets in history: 2; groups (db): 1
+38177.912 (9) Examining (for databases) backup set with group_id=0, nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+38177.914 (9) This backup set is the backup set just made, so will not be deleted.
+38177.914 (9) Examining (for databases) backup set with group_id=0, nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+38177.914 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+38177.916 (9) Number of backup sets in history: 2; groups (files): 1
+38177.918 (9) Examining (for files) backup set with nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+38177.918 (9) This backup set is the backup set just made, so will not be deleted.
+38177.920 (9) This backup set is the backup set just made, so will not be deleted.
+38177.920 (9) This backup set is the backup set just made, so will not be deleted.
+38177.921 (9) This backup set is the backup set just made, so will not be deleted.
+38177.921 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+38177.923 (9) Examining (for files) backup set with nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+38177.923 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+38177.924 (9) Retain: saving new backup history (sets now: 2) and finishing retain operation
+38177.930 (9) Resume backup (81e712d6cbb4, 9): finish run
+38177.934 (9) There were errors in the uploads, so the 'resume' event is remaining scheduled
+38177.939 (9) No email will/can be sent - the user has not configured an email address.
+38177.941 (9) De backup is niet afgemaakt; er is een hervatting gepland
+38244.070 (10) Opened log file at time: Tue, 11 Aug 2020 07:35:33 +0000 on http://localhost/louispaulkoffiemaker
+38244.072 (10) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.3.5 (apache2handler, Windows NT DESKTOP-H29UF1S 10.0 build 18362 (Windows 10) i586) MySQL: 5.7.26 WPLANG: nl_BE Server: Apache/2.4.39 (Win32) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.6M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+38244.074 (10) Free space on disk containing Updraft's temporary directory: 5702.1 MB
+38244.079 (10) Backup run: resumption=10, nonce=81e712d6cbb4, file_nonce=81e712d6cbb4 begun at=1597093089 (38244s ago), job type=backup, previous check-in=65.5s
+38244.083 (10) Scheduling a resumption (11) after 192 seconds (1597131525) in case this run gets aborted
+38244.088 (10) Creation of backups of directories: already finished
+38244.090 (10) Saving backup status to database (elements: 8)
+38244.094 (10) Database dump (WordPress DB): Creation was completed already
+38244.098 (10) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+38244.100 (10) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+38244.101 (10) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: uploads: This file has already been successfully uploaded
+38244.102 (10) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip: others: This file has already been successfully uploaded
+38244.103 (10) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz: db: This file is not ours to upload and has been/will be handled by another job.
+38244.104 (10) Saving backup history. Total backup size: Unknown
+38244.107 (10) Requesting upload of the files that have not yet been successfully uploaded (2)
+38244.110 (10) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+38244.111 (10) Beginning dispatch of backup to remote (googledrive) (instance identifier s-3134e6d82424c26b153c0fc30d7143ed)
+38245.414 (10) Google Drive: quota usage: used=20495.3 MB, total=102400 MB, available=81904.7 MB
+38245.417 (10) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+38245.550 (10) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: upload already began; attempting to resume from byte 32505855
+38246.505 (10) Googledrive chunked upload: 92.5 % uploaded (33554432)
+38247.507 (10) Googledrive chunked upload: 95.4 % uploaded (34603008)
+38307.525 (10) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+38307.527 (10) An error condition has occurred for the first time during this job
+38307.924 (10) Google Drive: quota usage: used=20495.3 MB, total=102400 MB, available=81904.7 MB
+38307.927 (10) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+38308.061 (10) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: upload already began; attempting to resume from byte 48758783
+38368.076 (10) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+38368.080 (10) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+38368.082 (10) Number of backup sets in history: 2; groups (db): 1
+38368.084 (10) Examining (for databases) backup set with group_id=0, nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+38368.085 (10) This backup set is the backup set just made, so will not be deleted.
+38368.085 (10) Examining (for databases) backup set with group_id=0, nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+38368.085 (10) This backup set remains non-empty (f=1/d=1); will retain in history
+38368.087 (10) Number of backup sets in history: 2; groups (files): 1
+38368.088 (10) Examining (for files) backup set with nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+38368.088 (10) This backup set is the backup set just made, so will not be deleted.
+38368.090 (10) This backup set is the backup set just made, so will not be deleted.
+38368.090 (10) This backup set is the backup set just made, so will not be deleted.
+38368.091 (10) This backup set is the backup set just made, so will not be deleted.
+38368.091 (10) This backup set remains non-empty (f=1/d=1); will retain in history
+38368.093 (10) Examining (for files) backup set with nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+38368.093 (10) This backup set remains non-empty (f=1/d=1); will retain in history
+38368.094 (10) Retain: saving new backup history (sets now: 2) and finishing retain operation
+38368.100 (10) Resume backup (81e712d6cbb4, 10): finish run
+38368.105 (10) There were errors in the uploads, so the 'resume' event is remaining scheduled
+38368.110 (10) No email will/can be sent - the user has not configured an email address.
+38368.111 (10) De backup is niet afgemaakt; er is een hervatting gepland
+38485.612 (11) Opened log file at time: Tue, 11 Aug 2020 07:39:34 +0000 on http://localhost/louispaulkoffiemaker
+38485.614 (11) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.3.5 (apache2handler, Windows NT DESKTOP-H29UF1S 10.0 build 18362 (Windows 10) i586) MySQL: 5.7.26 WPLANG: nl_BE Server: Apache/2.4.39 (Win32) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.6M | 8M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+38485.615 (11) Free space on disk containing Updraft's temporary directory: 5701.1 MB
+38485.617 (11) Backup run: resumption=11, nonce=81e712d6cbb4, file_nonce=81e712d6cbb4 begun at=1597093089 (38485s ago), job type=backup, previous check-in=3.4s
+38485.620 (11) Scheduling a resumption (12) after 192 seconds (1597131766) in case this run gets aborted
+38485.623 (11) Creation of backups of directories: already finished
+38485.625 (11) Saving backup status to database (elements: 8)
+38485.628 (11) Database dump (WordPress DB): Creation was completed already
+38485.632 (11) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+38485.633 (11) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+38485.634 (11) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: uploads: This file has already been successfully uploaded
+38485.635 (11) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip: others: This file has already been successfully uploaded
+38485.636 (11) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz: db: This file is not ours to upload and has been/will be handled by another job.
+38485.637 (11) Saving backup history. Total backup size: Unknown
+38485.640 (11) Requesting upload of the files that have not yet been successfully uploaded (2)
+38485.643 (11) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+38485.645 (11) Beginning dispatch of backup to remote (googledrive) (instance identifier s-3134e6d82424c26b153c0fc30d7143ed)
+38486.744 (11) Google Drive: quota usage: used=20495.3 MB, total=102400 MB, available=81904.7 MB
+38486.748 (11) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+38486.940 (11) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: upload already began; attempting to resume from byte 35651583
+38489.032 (11) Googledrive chunked upload: 100 % uploaded (35651584)
+38489.040 (11) Google Drive: OK: Archive backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip uploaded in 2.29 seconds
+38489.047 (11) Recording as successfully uploaded: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip
+38489.060 (11) Deleting local file: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: OK
+38489.682 (11) Google Drive: quota usage: used=20529.9 MB, total=102400 MB, available=81870.1 MB
+38489.684 (11) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+38489.982 (11) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: upload already began; attempting to resume from byte 49807359
+38550.000 (11) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+38550.003 (11) An error condition has occurred for the first time during this job
+38550.010 (11) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+38550.014 (11) Number of backup sets in history: 2; groups (db): 1
+38550.016 (11) Examining (for databases) backup set with group_id=0, nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+38550.019 (11) This backup set is the backup set just made, so will not be deleted.
+38550.019 (11) Examining (for databases) backup set with group_id=0, nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+38550.019 (11) This backup set remains non-empty (f=1/d=1); will retain in history
+38550.021 (11) Number of backup sets in history: 2; groups (files): 1
+38550.024 (11) Examining (for files) backup set with nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+38550.024 (11) This backup set is the backup set just made, so will not be deleted.
+38550.027 (11) This backup set is the backup set just made, so will not be deleted.
+38550.028 (11) This backup set is the backup set just made, so will not be deleted.
+38550.029 (11) This backup set is the backup set just made, so will not be deleted.
+38550.029 (11) This backup set remains non-empty (f=1/d=1); will retain in history
+38550.032 (11) Examining (for files) backup set with nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+38550.032 (11) This backup set remains non-empty (f=1/d=1); will retain in history
+38550.033 (11) Retain: saving new backup history (sets now: 2) and finishing retain operation
+38550.039 (11) Resume backup (81e712d6cbb4, 11): finish run
+38550.044 (11) There were errors in the uploads, so the 'resume' event is remaining scheduled
+38550.051 (11) No email will/can be sent - the user has not configured an email address.
+38550.053 (11) De backup is niet afgemaakt; er is een hervatting gepland
+38692.701 (12) Opened log file at time: Tue, 11 Aug 2020 07:43:02 +0000 on http://localhost/louispaulkoffiemaker
+38692.704 (12) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.3.5 (apache2handler, Windows NT DESKTOP-H29UF1S 10.0 build 18362 (Windows 10) i586) MySQL: 5.7.26 WPLANG: nl_BE Server: Apache/2.4.39 (Win32) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.6M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+38692.707 (12) Free space on disk containing Updraft's temporary directory: 5734.6 MB
+38692.713 (12) Backup run: resumption=12, nonce=81e712d6cbb4, file_nonce=81e712d6cbb4 begun at=1597093089 (38693s ago), job type=backup, previous check-in=3.4s
+38692.719 (12) Scheduling a resumption (13) after 192 seconds (1597131974) in case this run gets aborted
+38692.725 (12) Creation of backups of directories: already finished
+38692.728 (12) Saving backup status to database (elements: 8)
+38692.735 (12) Database dump (WordPress DB): Creation was completed already
+38692.744 (12) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: plugins: This file has already been successfully uploaded
+38692.747 (12) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+38692.749 (12) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: uploads: This file has already been successfully uploaded
+38692.751 (12) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip: others: This file has already been successfully uploaded
+38692.753 (12) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz: db: This file is not ours to upload and has been/will be handled by another job.
+38692.756 (12) Saving backup history. Total backup size: Unknown
+38692.763 (12) Requesting upload of the files that have not yet been successfully uploaded (1)
+38692.769 (12) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+38692.772 (12) Beginning dispatch of backup to remote (googledrive) (instance identifier s-3134e6d82424c26b153c0fc30d7143ed)
+38693.930 (12) Google Drive: quota usage: used=20529.9 MB, total=102400 MB, available=81870.1 MB
+38693.933 (12) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+38694.060 (12) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: upload already began; attempting to resume from byte 50855935
+38754.076 (12) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+38754.079 (12) An error condition has occurred for the first time during this job
+38754.088 (12) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+38754.091 (12) Number of backup sets in history: 2; groups (db): 1
+38754.094 (12) Examining (for databases) backup set with group_id=0, nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+38754.096 (12) This backup set is the backup set just made, so will not be deleted.
+38754.097 (12) Examining (for databases) backup set with group_id=0, nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+38754.097 (12) This backup set remains non-empty (f=1/d=1); will retain in history
+38754.100 (12) Number of backup sets in history: 2; groups (files): 1
+38754.103 (12) Examining (for files) backup set with nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+38754.103 (12) This backup set is the backup set just made, so will not be deleted.
+38754.105 (12) This backup set is the backup set just made, so will not be deleted.
+38754.106 (12) This backup set is the backup set just made, so will not be deleted.
+38754.107 (12) This backup set is the backup set just made, so will not be deleted.
+38754.108 (12) This backup set remains non-empty (f=1/d=1); will retain in history
+38754.110 (12) Examining (for files) backup set with nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+38754.110 (12) This backup set remains non-empty (f=1/d=1); will retain in history
+38754.111 (12) Retain: saving new backup history (sets now: 2) and finishing retain operation
+38754.120 (12) Resume backup (81e712d6cbb4, 12): finish run
+38754.123 (12) There were errors in the uploads, so the 'resume' event is remaining scheduled
+38754.130 (12) No email will/can be sent - the user has not configured an email address.
+38754.132 (12) De backup is niet afgemaakt; er is een hervatting gepland
+38947.501 (13) Opened log file at time: Tue, 11 Aug 2020 07:47:16 +0000 on http://localhost/louispaulkoffiemaker
+38947.506 (13) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.3.5 (apache2handler, Windows NT DESKTOP-H29UF1S 10.0 build 18362 (Windows 10) i586) MySQL: 5.7.26 WPLANG: nl_BE Server: Apache/2.4.39 (Win32) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 14.6M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+38947.514 (13) Free space on disk containing Updraft's temporary directory: 5736.2 MB
+38947.526 (13) Backup run: resumption=13, nonce=81e712d6cbb4, file_nonce=81e712d6cbb4 begun at=1597093089 (38947s ago), job type=backup
+38947.539 (13) The current run is resumption number 13, and there was nothing useful done on the last run (last useful run: 11) - will not schedule a further attempt until we see something useful happening this time
+38947.552 (13) Scheduling a resumption (14) after 192 seconds (1597132228); but the job will then be aborted unless something happens this time
+38947.563 (13) Creation of backups of directories: already finished
+38947.569 (13) Saving backup status to database (elements: 8)
+38947.585 (13) Database dump (WordPress DB): Creation was completed already
+38947.601 (13) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-plugins.zip: plugins: This file has already been successfully uploaded
+38947.605 (13) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+38947.610 (13) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-uploads.zip: uploads: This file has already been successfully uploaded
+38947.615 (13) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-others.zip: others: This file has already been successfully uploaded
+38947.620 (13) backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-db.gz: db: This file is not ours to upload and has been/will be handled by another job.
+38947.626 (13) Saving backup history. Total backup size: Unknown
+38947.642 (13) Requesting upload of the files that have not yet been successfully uploaded (1)
+38947.654 (13) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+38947.661 (13) Beginning dispatch of backup to remote (googledrive) (instance identifier s-3134e6d82424c26b153c0fc30d7143ed)
+38948.929 (13) Google Drive: quota usage: used=20529.9 MB, total=102400 MB, available=81870.1 MB
+38948.936 (13) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: Attempting to upload to Google Drive (into folder id: 1oFx55LibvHaI6NV71SySEaimAD5fRjKy)
+38949.251 (13) Google Drive: backup_2020-08-10-2058_Louis_Paul_koffiemaker_81e712d6cbb4-themes.zip: upload already began; attempting to resume from byte 51642367
+38950.007 (13) Googledrive chunked upload: 71.6 % uploaded (52690944)
+39010.070 (13) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\wamp\www\louispaulkoffiemaker\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+39010.081 (13) An error condition has occurred for the first time during this job
+39010.106 (13) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+39010.119 (13) Number of backup sets in history: 2; groups (db): 1
+39010.127 (13) Examining (for databases) backup set with group_id=0, nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+39010.135 (13) This backup set is the backup set just made, so will not be deleted.
+39010.136 (13) Examining (for databases) backup set with group_id=0, nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+39010.137 (13) This backup set remains non-empty (f=1/d=1); will retain in history
+39010.144 (13) Number of backup sets in history: 2; groups (files): 1
+39010.153 (13) Examining (for files) backup set with nonce=81e712d6cbb4, datestamp=1597093089 (Aug 10 2020 20:58:09)
+39010.153 (13) This backup set is the backup set just made, so will not be deleted.
+39010.161 (13) This backup set is the backup set just made, so will not be deleted.
+39010.164 (13) This backup set is the backup set just made, so will not be deleted.
+39010.168 (13) This backup set is the backup set just made, so will not be deleted.
+39010.171 (13) This backup set remains non-empty (f=1/d=1); will retain in history
+39010.179 (13) Examining (for files) backup set with nonce=a30c18b3d537, datestamp=1597092812 (Aug 10 2020 20:53:32)
+39010.180 (13) This backup set remains non-empty (f=1/d=1); will retain in history
+39010.183 (13) Retain: saving new backup history (sets now: 2) and finishing retain operation
+39010.209 (13) Resume backup (81e712d6cbb4, 13): finish run
+39010.218 (13) The resumption is being cancelled, as it was only scheduled to enable error reporting, which can be performed now
+39010.236 (13) No email will/can be sent - the user has not configured an email address.
+39010.244 (13) De backup-poging is afgerond, zo te zien zonder succes

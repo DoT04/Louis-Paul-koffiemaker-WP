@@ -1,0 +1,16 @@
+2020-08-12T15:17:20+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING) in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\functions.php on line 235
+
+2020-08-12T15:20:02+00:00 CRITICAL Uncaught Error: Call to undefined function wp_nav_menus() in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\functions.php:228
+Stack trace:
+#0 C:\wamp\www\louispaulkoffiemaker\wp-settings.php(508): include()
+#1 C:\wamp\www\louispaulkoffiemaker\wp-config.php(91): require_once('C:\\wamp\\www\\lou...')
+#2 C:\wamp\www\louispaulkoffiemaker\wp-load.php(37): require_once('C:\\wamp\\www\\lou...')
+#3 C:\wamp\www\louispaulkoffiemaker\wp-blog-header.php(13): require_once('C:\\wamp\\www\\lou...')
+#4 C:\wamp\www\louispaulkoffiemaker\index.php(17): require('C:\\wamp\\www\\lou...')
+#5 {main}
+  thrown in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\functions.php on line 228
+
+2020-08-12T15:21:06+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\functions.php on line 232
+
+2020-08-12T15:27:43+00:00 CRITICAL syntax error, unexpected '$args' (T_VARIABLE), expecting '(' in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\functions.php on line 229
+

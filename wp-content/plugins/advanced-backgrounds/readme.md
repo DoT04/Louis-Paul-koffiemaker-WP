@@ -5,7 +5,7 @@
 * Requires at least: 5.4
 * Tested up to: 5.5
 * Requires PHP: 5.5.9
-* Stable tag: 1.6.6
+* Stable tag: 1.6.7
 * License: GPLv2 or later
 * License URI: <http://www.gnu.org/licenses/gpl-2.0.html>
 
@@ -82,6 +82,10 @@ The manual installation method involves downloading our AWB plugin and uploading
 5. Extended WPBakery Page Builder ROW options
 
 ## Changelog
+
+= 1.6.7 =
+
+* fixed color picker error in WordPress 5.5 and WPBakery Page Builder
 
 = 1.6.6 =
 

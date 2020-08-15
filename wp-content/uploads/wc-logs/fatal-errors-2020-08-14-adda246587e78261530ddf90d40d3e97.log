@@ -1,0 +1,66 @@
+2020-08-14T08:35:15+00:00 CRITICAL Cannot redeclare mytheme_add_woocommerce_support() (previously declared in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\functions.php:229) in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\functions.php on line 248
+
+2020-08-14T08:37:15+00:00 CRITICAL Cannot redeclare mytheme_add_woocommerce_support() (previously declared in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\functions.php:229) in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\functions.php on line 248
+
+2020-08-14T08:51:17+00:00 CRITICAL Cannot redeclare mytheme_add_woocommerce_support() (previously declared in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\functions.php:229) in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\functions.php on line 248
+
+2020-08-14T08:52:17+00:00 CRITICAL Cannot redeclare mytheme_add_woocommerce_support() (previously declared in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\functions.php:229) in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\functions.php on line 248
+
+2020-08-14T08:53:17+00:00 CRITICAL Cannot redeclare mytheme_add_woocommerce_support() (previously declared in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\functions.php:229) in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\functions.php on line 248
+
+2020-08-14T08:53:35+00:00 CRITICAL Cannot redeclare mytheme_add_woocommerce_support() (previously declared in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\functions.php:229) in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\functions.php on line 248
+
+2020-08-14T11:44:51+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\functions.php on line 214
+
+2020-08-14T19:38:29+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T19:43:48+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T19:53:53+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T19:54:53+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T20:03:05+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T20:14:03+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T20:14:34+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T20:14:40+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T20:17:02+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T20:17:46+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T20:24:52+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T20:25:58+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T20:27:35+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T20:27:57+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T20:28:39+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T20:36:25+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T20:38:26+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T20:38:52+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T20:53:17+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T20:56:59+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 677
+
+2020-08-14T21:04:30+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 678
+
+2020-08-14T21:08:03+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 678
+
+2020-08-14T21:08:33+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 678
+
+2020-08-14T21:11:22+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 678
+
+2020-08-14T21:12:23+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 678
+
+2020-08-14T21:20:15+00:00 CRITICAL syntax error, unexpected end of file in C:\wamp\www\louispaulkoffiemaker\wp-content\themes\LOUISPAUL START VSC - V7\bestel-page.php on line 678
+
